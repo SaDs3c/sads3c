@@ -27,10 +27,10 @@ VedaLogic
 ### Volunteers
 2
 
-
-
+### Members
 * https://github.com/cne3rd
 * https://github.com/AbdulConsole
 * https://github.com/greyblue9
+* https://github.com/devfemibadmus
 
 
