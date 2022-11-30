@@ -1,4 +1,4 @@
-### SaDsEc Security
+### SaD Security
 
 ###  Motto
 Talk is cheap, show me the vuln.
