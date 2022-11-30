@@ -1,25 +1,34 @@
-### Hello World 👋
+### SaDsEc Security
 
-<!--
-**SaDs3c/sads3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+###  Motto
 Talk is cheap, show me the vuln.
 
+### Logo
+![SaDsEc logo](https://avatars.githubusercontent.com/u/109635300?v=4 "SaDsEc logo")
+
+### Abbreviation	
+SaDsEc
+
+### Formation
+Formation 2022
+
+### Type
+Anything Computer
+
+### Membership
+4
+
+### Leader
+CneRd
+
+### Affiliations
+VedaLogic
+
+### Volunteers
+2
 
 
-Members:
+
 * https://github.com/cne3rd
 * https://github.com/AbdulConsole
 * https://github.com/greyblue9
