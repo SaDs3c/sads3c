@@ -10,7 +10,7 @@ Talk is cheap, show me the vuln.
 SaDsEc
 
 ### Formation
-Formation 2022
+2022
 
 ### Type
 Anything Computer
