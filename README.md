@@ -16,7 +16,7 @@ SaDsEc
 Anything Computer
 
 ### Membership
-4
+5
 
 ### Leader
 CneRd
@@ -32,5 +32,6 @@ VedaLogic
 * https://github.com/AbdulConsole
 * https://github.com/greyblue9
 * https://github.com/devfemibadmus
+* https://github.com/devsammyy
 
 
